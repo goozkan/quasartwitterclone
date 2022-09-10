@@ -28,7 +28,7 @@
             @click="addNewQweet"
             unelevated
             rounded
-            color="primary"
+            color="black"
             label="Send"
             no-caps
             :disable="!newQweetContent"
